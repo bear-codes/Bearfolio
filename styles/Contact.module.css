@@ -1,0 +1,36 @@
+.contact {
+  padding-top: 1rem;
+  font-size: 0.9em;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+.contact a {
+  color: #cce6db;
+  background: #28282B;
+  text-decoration: none;
+}
+.boxes {
+  display: flex;
+  justify-content: center;
+  margin: 1rem 0;
+}
+.box {
+  padding: 1rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  border: 3px solid #cce6db;
+  border-radius: 0.3rem;
+  align-items: center;
+  display: flex;
+  transition: 0.3s;
+}
+.box i {
+  font-size: 1.3em;
+  margin-right: 0.5rem;
+}
+@media (max-width: 991px) {
+  .box {
+    font-size: 0.9em;
+    margin-bottom: 1rem;
+  }
+}
