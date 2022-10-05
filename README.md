@@ -14,7 +14,7 @@ Bearfolio is my portfolio. It is made using NextJS
 
 ### Installing
 
-* Fork this repository and deploy it in you Paas provider ( Most providers have an option to deploy from github)
+* Fork this repository and deploy it in you PaaS provider ( Most providers have an option to deploy from github)
 * I personally use Vercel/Netlify
 
 ## Help
